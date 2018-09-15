@@ -1,0 +1,16 @@
+RELEASE NOTES
+=============
+
+Version : 1.0
+Date Published : 09th Oct 2014
+External Dependencies : nircmd - http://www.nirsoft.net/utils/nircmd.html
+
+
+Known Issues:
++ File Dialog Title is not getting displayed properly
+
+
+Wishlist for next version:
+
+* Ctrl + Print-Screen : Capture all monitors in a multiple-cmonitor config
+* Render a modal screen before user can select capture area: mirror the snippet tool

@@ -1,0 +1,13 @@
+D:\Dev\RagnarokScripts\images\roughelunium.png
+D:\Dev\RagnarokScripts\images\roughwind.png
+D:\Dev\RagnarokScripts\images\spores.png
+D:\Dev\RagnarokScripts\images\crystalblue.png
+D:\Dev\RagnarokScripts\images\redblood.png
+D:\Dev\RagnarokScripts\images\mysticfrozen.png
+D:\Dev\RagnarokScripts\images\windofverdure.png
+D:\Dev\RagnarokScripts\images\cobwebs.png
+D:\Dev\RagnarokScripts\images\emeravetacon.png
+D:\Dev\RagnarokScripts\images\grit.png
+D:\Dev\RagnarokScripts\images\roughoridecon.png
+D:\Dev\RagnarokScripts\images\yellowgemstone.png
+D:\Dev\RagnarokScripts\images\redgemstone.png
